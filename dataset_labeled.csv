@@ -1,0 +1,1001 @@
+Creditability,Account_Balance,Payment_Status_of_Previous_Credit,Credit_Amount,Value_Savings_Stocks,Length_of_current_employment,Guarantors,Concurrent_Credits,No_of_Credits_at_this_Bank
+Good,No account,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,4 to 7 years,None,None,More than one
+Good,No account,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Medium,50 to 500 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Medium,50 to 500 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,None
+Good,No balance,No Problems,Medium,None,1 to 4 years,None,None,More than one
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Very High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Some Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,None,Above 7 years,None,None,More than one
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,500 to 2000 EUR,4 to 7 years,None,None,More than one
+Good,No balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,Above 7 years,None,None,One
+Good,No balance,No Problems,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,1 to 4 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Some Problems,Low,Below 50 EUR,Above 7 years,None,None,One
+Good,No balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,None,One
+Good,No account,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Some Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,None,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Medium,Below 50 EUR,Above 7 years,None,None,More than one
+Good,No balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,4 to 7 years,None,None,One
+Good,Some Balance,No Problems,High,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,Yes,None,More than one
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Very High,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Some Problems,High,500 to 2000 EUR,1 to 4 years,None,None,None
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Some Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,None,One
+Good,Some Balance,Some Problems,High,500 to 2000 EUR,1 to 4 years,Yes,None,More than one
+Good,Some Balance,Some Problems,Low,500 to 2000 EUR,Above 7 years,None,None,One
+Good,No account,Paid Up,High,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,500 to 2000 EUR,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,Above 7 years,Yes,None,One
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Some Problems,Very High,500 to 2000 EUR,Below 1 year,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,Below 50 EUR,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,Some Problems,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Some Problems,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,None
+Good,No balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Very High,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,Some Problems,Low,None,1 to 4 years,Yes,None,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,None,One
+Good,No balance,Some Problems,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Some Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,Above 7 years,None,None,One
+Good,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Very High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,Above 7 years,None,None,More than one
+Good,Some Balance,Some Problems,Low,50 to 500 EUR,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,None,None,More than one
+Good,Some Balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Some Problems,Low,Below 50 EUR,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Some Problems,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,None,One
+Good,No balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,1 to 4 years,None,None,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,500 to 2000 EUR,1 to 4 years,None,None,One
+Good,Some Balance,Paid Up,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,None,More than one
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,Below 50 EUR,Above 7 years,None,None,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,None,4 to 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,No account,Some Problems,Low,None,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,High,None,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,None,None,One
+Good,Some Balance,Some Problems,Low,500 to 2000 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Some Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,None,More than one
+Good,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,None,One
+Good,Some Balance,Some Problems,Low,None,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Some Problems,Low,Below 50 EUR,4 to 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,500 to 2000 EUR,1 to 4 years,Yes,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,Below 50 EUR,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Some Problems,Medium,None,4 to 7 years,Yes,None,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,None,More than one
+Bad,No account,No Problems,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,None,One
+Good,Some Balance,No Problems,Very High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,4 to 7 years,Yes,None,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Some Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Some Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,Below 50 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Very High,500 to 2000 EUR,Above 7 years,None,None,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,Below 1 year,None,None,None
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,None,More than one
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,50 to 500 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,500 to 2000 EUR,Below 1 year,None,None,One
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,None,None,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,None,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,None
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,No balance,No Problems,Very High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,None,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,50 to 500 EUR,4 to 7 years,None,None,One
+Good,No balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,None,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,No balance,No Problems,Medium,None,Below 1 year,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Very High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,None,Below 1 year,None,None,One
+Good,No balance,No Problems,High,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,None,4 to 7 years,None,None,More than one
+Good,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,500 to 2000 EUR,1 to 4 years,None,None,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,None,None
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,None,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,None,None
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,None,None
+Good,No balance,Paid Up,Medium,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,None
+Good,No balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Some Problems,Medium,None,Above 7 years,None,None,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,High,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,No Problems,High,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Very High,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Some Problems,Medium,None,4 to 7 years,None,None,More than one
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Some Problems,High,50 to 500 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,None,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,High,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,Some Balance,Paid Up,Very High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Some Problems,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Some Problems,Very High,500 to 2000 EUR,4 to 7 years,None,None,One
+Bad,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,None,Above 7 years,Yes,None,One
+Bad,No account,Paid Up,Low,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,No account,Paid Up,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,None,More than one
+Bad,No account,No Problems,High,None,1 to 4 years,Yes,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,Low,None,Below 1 year,Yes,Other Banks or Dept Stores,More than one
+Good,No account,Some Problems,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,High,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,Above 7 years,None,None,One
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,Below 50 EUR,1 to 4 years,None,None,One
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Good,No account,Paid Up,High,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,No Problems,Very High,None,Above 7 years,None,Other Banks or Dept Stores,None
+Good,No account,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,Below 1 year,Yes,None,More than one
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,No Problems,High,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,None
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,High,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,Above 7 years,None,None,One
+Good,No account,Paid Up,Medium,None,1 to 4 years,None,None,One
+Bad,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,1 to 4 years,None,None,More than one
+Good,No account,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Some Problems,High,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Very High,None,Below 1 year,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,Above 7 years,None,None,More than one
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,None,More than one
+Good,No balance,No Problems,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,No Problems,Low,Below 50 EUR,1 to 4 years,None,None,More than one
+Good,No balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,1 to 4 years,Yes,None,One
+Good,Some Balance,No Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,None,Above 7 years,Yes,None,More than one
+Good,No balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,Yes,None,None
+Good,No balance,Paid Up,Low,None,Above 7 years,Yes,None,One
+Good,No balance,Some Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,Yes,None,More than one
+Good,No balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,None,More than one
+Good,No balance,No Problems,Low,500 to 2000 EUR,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Some Problems,Medium,500 to 2000 EUR,1 to 4 years,None,None,One
+Good,Some Balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Very High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Very High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Good,No balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,High,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,None,4 to 7 years,None,None,One
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Good,No account,No Problems,Medium,None,Below 1 year,Yes,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Good,Some Balance,Some Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,None
+Bad,No balance,Paid Up,Low,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,High,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,50 to 500 EUR,Above 7 years,None,None,One
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Very High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Some Problems,High,None,Below 1 year,None,None,One
+Good,Some Balance,Paid Up,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No account,Paid Up,Medium,None,Below 1 year,None,Other Banks or Dept Stores,One
+Good,No account,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Some Problems,High,Below 50 EUR,Above 7 years,None,None,More than one
+Good,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,No Problems,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Good,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,None,One
+Good,Some Balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Good,Some Balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Good,No balance,No Problems,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Medium,50 to 500 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,Low,None,4 to 7 years,None,None,More than one
+Bad,No balance,Paid Up,Low,None,4 to 7 years,Yes,None,One
+Bad,No balance,No Problems,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Some Problems,High,500 to 2000 EUR,4 to 7 years,None,None,More than one
+Bad,No balance,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Bad,Some Balance,No Problems,Low,None,4 to 7 years,None,None,More than one
+Bad,No balance,Some Problems,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Low,500 to 2000 EUR,1 to 4 years,None,None,One
+Bad,No account,Some Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,50 to 500 EUR,Above 7 years,None,None,More than one
+Bad,No balance,Some Problems,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Some Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,None
+Bad,No balance,No Problems,Medium,None,1 to 4 years,None,None,One
+Bad,No balance,Some Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,High,None,1 to 4 years,None,None,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,None,One
+Bad,Some Balance,Paid Up,Low,None,Above 7 years,None,None,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,High,None,Above 7 years,None,None,One
+Bad,Some Balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Very High,500 to 2000 EUR,Above 7 years,Yes,None,More than one
+Bad,No account,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,No Problems,High,500 to 2000 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Some Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Some Problems,High,None,Above 7 years,None,None,More than one
+Bad,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Low,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,4 to 7 years,Yes,None,More than one
+Bad,No balance,No Problems,Very High,None,4 to 7 years,Yes,Other Banks or Dept Stores,More than one
+Bad,No balance,No Problems,Medium,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,No Problems,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Some Problems,Very High,Below 50 EUR,Above 7 years,None,None,More than one
+Bad,No balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,None,4 to 7 years,None,None,One
+Bad,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,None,More than one
+Bad,Some Balance,Paid Up,Low,None,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Medium,50 to 500 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Medium,500 to 2000 EUR,4 to 7 years,None,None,One
+Bad,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Medium,None,Above 7 years,None,None,More than one
+Bad,No account,No Problems,High,None,4 to 7 years,None,None,One
+Bad,Some Balance,No Problems,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,High,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,Below 50 EUR,1 to 4 years,None,None,None
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Low,None,Below 1 year,Yes,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,High,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Some Problems,Low,None,Above 7 years,None,None,One
+Bad,No balance,No Problems,Medium,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Bad,No balance,No Problems,High,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Some Problems,Low,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,High,None,Above 7 years,None,None,One
+Bad,No balance,Some Problems,Low,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,High,Below 50 EUR,1 to 4 years,Yes,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Medium,50 to 500 EUR,1 to 4 years,None,None,One
+Bad,Some Balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,500 to 2000 EUR,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,Above 7 years,None,None,More than one
+Bad,No account,Paid Up,Medium,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,Low,None,4 to 7 years,None,None,One
+Bad,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,Medium,None,Above 7 years,None,None,More than one
+Bad,No account,Some Problems,Medium,None,Above 7 years,None,None,One
+Bad,No account,Some Problems,Medium,None,Above 7 years,None,None,More than one
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,Medium,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,Medium,None,Above 7 years,None,None,One
+Bad,No account,Some Problems,Low,None,1 to 4 years,None,None,More than one
+Bad,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Some Problems,High,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Bad,No account,No Problems,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Medium,None,4 to 7 years,None,None,One
+Bad,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Very High,None,Above 7 years,None,Other Banks or Dept Stores,None
+Bad,No balance,Some Problems,Very High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,None,One
+Bad,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Medium,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Low,None,4 to 7 years,Yes,None,More than one
+Bad,No balance,Paid Up,Low,None,4 to 7 years,None,None,One
+Bad,No balance,No Problems,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,None,One
+Bad,No balance,No Problems,High,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,None
+Bad,Some Balance,No Problems,Very High,50 to 500 EUR,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,Above 7 years,None,None,One
+Bad,Some Balance,Paid Up,Low,None,Above 7 years,None,None,One
+Bad,No balance,Paid Up,Very High,500 to 2000 EUR,4 to 7 years,None,None,One
+Bad,No account,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,High,Below 50 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Some Problems,High,500 to 2000 EUR,Below 1 year,None,None,One
+Bad,No account,Some Problems,Low,None,Above 7 years,None,None,More than one
+Bad,Some Balance,No Problems,Low,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,Medium,None,1 to 4 years,None,None,More than one
+Bad,Some Balance,No Problems,Low,50 to 500 EUR,Above 7 years,None,Other Banks or Dept Stores,None
+Bad,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Very High,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Some Problems,Low,None,1 to 4 years,None,None,One
+Bad,No account,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,None
+Bad,No balance,Paid Up,Medium,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Medium,Below 50 EUR,4 to 7 years,Yes,None,One
+Bad,No balance,Some Problems,Medium,Below 50 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Medium,Below 50 EUR,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,Paid Up,High,500 to 2000 EUR,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,Very High,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,High,None,1 to 4 years,None,None,One
+Bad,Some Balance,No Problems,High,None,1 to 4 years,None,None,More than one
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Low,500 to 2000 EUR,4 to 7 years,None,None,More than one
+Bad,Some Balance,Paid Up,Medium,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No balance,Some Problems,High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,Some Balance,Paid Up,Low,None,4 to 7 years,Yes,Other Banks or Dept Stores,One
+Bad,No account,Some Problems,Very High,None,Above 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Very High,None,1 to 4 years,None,None,One
+Bad,No balance,Some Problems,Very High,None,4 to 7 years,None,None,One
+Bad,No account,Paid Up,Very High,None,Above 7 years,None,None,One
+Bad,No balance,Paid Up,Medium,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Medium,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,No Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,None,More than one
+Bad,No account,Paid Up,High,None,Above 7 years,Yes,Other Banks or Dept Stores,More than one
+Bad,Some Balance,No Problems,Low,None,Below 1 year,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,Below 50 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,1 to 4 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Medium,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,Very High,None,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,No Problems,Medium,None,Above 7 years,None,None,None
+Bad,No account,Some Problems,High,None,4 to 7 years,None,Other Banks or Dept Stores,More than one
+Bad,No account,Paid Up,Low,None,4 to 7 years,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,Low,None,Above 7 years,Yes,Other Banks or Dept Stores,One
+Bad,Some Balance,No Problems,Very High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One
+Bad,No balance,Paid Up,High,500 to 2000 EUR,Below 1 year,None,Other Banks or Dept Stores,One
+Bad,No account,Paid Up,High,500 to 2000 EUR,Above 7 years,None,Other Banks or Dept Stores,One

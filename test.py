@@ -19,4 +19,4 @@ df_novo = df.drop(
     axis=1,
 )
 
-df_novo.to_csv("dataset.csv")
+df_novo.to_csv("dataset.csv", index=False)

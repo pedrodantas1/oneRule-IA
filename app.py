@@ -64,19 +64,13 @@ class OneRClassifier:
         return np.array(predictions)
 
 
-# Carregar dataset
-def load_data():
-
-    return pd.DataFrame(data)
-
-
-# Demonstração do uso
 if __name__ == "__main__":
-    df = load_data()
+    # Carregar dataset
+    df = pd.read_csv("dataset_labeled.csv")
 
     # Separa features e target
-    X = df.drop("", axis=1)
-    y = df[""]
+    X = df.drop("Creditability", axis=1)
+    y = df["Creditability"]
 
     # Cria e treina o classificador
     classifier = OneRClassifier()
@@ -93,6 +87,6 @@ if __name__ == "__main__":
     print("\nRegra encontrada:")
     for value, prediction in classifier.best_rule.items():
         print(
-            f"Se {X.columns[classifier.best_feature]} = {value}, então credito = {prediction}"
+            f"Se {X.columns[classifier.best_feature]} = {value}, então creditability = {prediction}"
         )
     print(f"\nAcurácia no conjunto de treino: {accuracy:.2%}")

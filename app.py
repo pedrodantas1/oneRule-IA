@@ -1,92 +1,126 @@
-from collections import defaultdict
-
-import numpy as np
 import pandas as pd
+import streamlit as st
+
+from OneRClassifier import OneRClassifier
+
+# Configuração da página
+st.set_page_config(
+    page_title="Aprovação de Crédito - OneR", page_icon="💳", layout="wide"
+)
+
+# Título e descrição
+st.title("Sistema de Aprovação de Crédito")
+st.markdown("### Análise de crédito usando algoritmo OneR")
 
 
-class OneRClassifier:
-    def __init__(self):
-        self.best_rule = None
-        self.best_feature = None
-        self.min_error = float("inf")
-
-    def _calculate_rule_error(self, feature_values, target_values):
-        value_class_counts = defaultdict(lambda: defaultdict(int))
-
-        # Conta ocorrências de cada classe para cada valor do atributo
-        for value, target in zip(feature_values, target_values):
-            value_class_counts[value][target] += 1
-
-        # Para cada valor, escolhe a classe mais frequente
-        rules = {}
-        total_errors = 0
-
-        for value in value_class_counts:
-            # Encontra a classe majoritária
-            counts = value_class_counts[value]
-            majority_class = max(counts.items(), key=lambda x: x[1])[0]
-            rules[value] = majority_class
-
-            # Calcula erros para este valor
-            total_value_instances = sum(counts.values())
-            errors = total_value_instances - counts[majority_class]
-            total_errors += errors
-
-        return rules, total_errors
-
-    def fit(self, X, y):
-        if isinstance(X, pd.DataFrame):
-            X = X.values
-
-        # Para cada feature, calcula as regras e erros
-        for i in range(X.shape[1]):
-            rules, errors = self._calculate_rule_error(X[:, i], y)
-
-            if errors < self.min_error:
-                self.min_error = errors
-                self.best_rule = rules
-                self.best_feature = i
-
-    def predict(self, X):
-        if isinstance(X, pd.DataFrame):
-            X = X.values
-
-        predictions = []
-        for instance in X:
-            value = instance[self.best_feature]
-            # Se encontrar um valor não visto no treino, usa a classe mais comum
-            pred = self.best_rule.get(
-                value,
-                max(self.best_rule.values(), key=list(self.best_rule.values()).count),
-            )
-            predictions.append(pred)
-
-        return np.array(predictions)
-
-
-if __name__ == "__main__":
-    # Carregar dataset
+# Carrega e prepara os dados
+@st.cache_data
+def load_data():
     df = pd.read_csv("dataset_labeled.csv")
-
-    # Separa features e target
     X = df.drop("Creditability", axis=1)
     y = df["Creditability"]
 
-    # Cria e treina o classificador
+    # Treina o modelo
     classifier = OneRClassifier()
     classifier.fit(X, y)
+    return df, X, y, classifier
 
-    # Faz previsões
-    predictions = classifier.predict(X)
 
-    # Calcula acurácia
-    accuracy = sum(predictions == y) / len(y)
+df, X, y, classifier = load_data()
 
-    # Mostra resultados
-    print(f"\nFeature mais relevante: {X.columns[classifier.best_feature]}")
-    print("\nRegra encontrada:")
-    for value, prediction in classifier.best_rule.items():
-        print(
-            f"Se {X.columns[classifier.best_feature]} = {value}, então creditability = {prediction}"
-        )
-    print(f"\nAcurácia no conjunto de treino: {accuracy:.2%}")
+# Sidebar com informações do modelo
+st.sidebar.header("Informações do Modelo")
+st.sidebar.markdown(
+    f"""
+- **Feature mais relevante:** {X.columns[classifier.best_feature]}
+- **Acurácia no treino:** {(sum(classifier.predict(X) == y) / len(y)):.2%}
+"""
+)
+
+# Regras encontradas
+st.sidebar.markdown("### Regras Descobertas")
+for value, prediction in classifier.best_rule.items():
+    st.sidebar.write(
+        f"- Se *{X.columns[classifier.best_feature]}* = `{value}` → Crédito: `{prediction}`"
+    )
+
+# Área principal - Formulário de predição
+st.markdown("## Análise de Novo Cliente")
+
+# Criar colunas para organizar os campos
+col1, col2 = st.columns(2)
+
+with col1:
+    account_balance = st.selectbox(
+        "Saldo da Conta",
+        options=["No account", "No balance", "Some balance"],
+    )
+
+    payment_status = st.selectbox(
+        "Status de Pagamento de Créditos Anteriores",
+        options=["No Problems", "Paid Up", "Some Problems"],
+    )
+
+    credit_amount = st.selectbox(
+        "Valor do Crédito Atual", options=["Low", "Medium", "High"]
+    )
+
+    savings_value = st.selectbox(
+        "Valor em Poupança/Ações", options=["None", "Below 50 EUR", "Above 50 EUR"]
+    )
+
+with col2:
+    employment_length = st.selectbox(
+        "Tempo no Emprego Atual",
+        options=["Below 1 year", "1 to 4 years", "4 to 7 years", "Above 7 years"],
+    )
+
+    guarantors = st.selectbox("Garantidores", options=["None", "Yes"])
+
+    concurrent_credits = st.selectbox(
+        "Créditos Concorrentes", options=["None", "Other Banks or Dept Stores"]
+    )
+
+    num_credits = st.selectbox(
+        "Número de Créditos neste Banco", options=["None", "One", "More than one"]
+    )
+
+# Botão para realizar a previsão
+if st.button("Analisar Crédito", type="primary"):
+    # Criar um DataFrame com os dados do formulário
+    new_data = pd.DataFrame(
+        {
+            "Account_Balance": [account_balance],
+            "Payment_Status_of_Previous_Credit": [payment_status],
+            "Credit_Amount": [credit_amount],
+            "Value_Savings_Stocks": [savings_value],
+            "Length_of_current_employment": [employment_length],
+            "Guarantors": [guarantors],
+            "Concurrent_Credits": [concurrent_credits],
+            "No_of_Credits_at_this_Bank": [num_credits],
+        }
+    )
+
+    # Fazer a previsão
+    prediction = classifier.predict(new_data)[0]
+
+    # Exibir resultado
+    st.markdown("### Resultado da Análise")
+
+    if prediction == "Good":
+        st.success("✅ Crédito Aprovado")
+    else:
+        st.error("❌ Crédito Negado")
+
+    # Mostrar a regra que foi utilizada
+    feature_value = new_data.iloc[0][X.columns[classifier.best_feature]]
+    st.info(
+        f"""
+    **Regra aplicada:**
+    - Se {X.columns[classifier.best_feature]} = {feature_value} → Creditability = {prediction}
+    """
+    )
+
+# Dataset
+st.markdown("## Dados de Treinamento")
+st.dataframe(df, use_container_width=True)

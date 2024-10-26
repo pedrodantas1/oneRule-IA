@@ -41,7 +41,7 @@ st.sidebar.markdown(
 st.sidebar.markdown("### Regras Descobertas")
 for value, prediction in classifier.best_rule.items():
     st.sidebar.write(
-        f"- Se *{X.columns[classifier.best_feature]}* = `{value}` → Crédito: `{prediction}`"
+        f"- Se *{X.columns[classifier.best_feature]}* = `{value}` → Creditability: `{prediction}`"
     )
 
 # Área principal - Formulário de predição
